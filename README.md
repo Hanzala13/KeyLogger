@@ -31,7 +31,7 @@ Important: This keylogger is intended strictly for educational purposes within a
 
 ### Installation
 Clone the Repository:
-`git clone https://github.com/Hanzala13/CybersecurityKeylogger.git`
+`https://github.com/Hanzala13/KeyLogger.git`
 
 Go to Folder
 `cd Cybersecurity-Keylogger`
